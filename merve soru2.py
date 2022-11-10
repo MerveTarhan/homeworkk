@@ -7,5 +7,11 @@ def pi(x):
         x-=1
     return(6*k)**0.5
 
-i=7
+i=7 
 print(pi(i))
+#import math 
+#toplam=0
+#for i in range(1,1000000,1):
+#toplam=toplam+(1/(i*i))
+#pi=math.sqrt(6*toplam)
+#print((math.pi)
